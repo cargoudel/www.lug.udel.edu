@@ -43,8 +43,8 @@
                             <div class="row">
                                 <h1 class="text-center" style="margin-bottom: 100px;"><strong>Board Members</strong></h1>
                                 <div class="col-md-4 col-md-offset-2">
-                                    <img class="img img-responsive img-center callout" style="width:300px" src="/assets/img/will_460x460.jpg">
-                                    <h3 class="text-center">Will Weber, <strong>President</strong></h3>
+                                    <img class="img img-responsive img-center callout" style="width:300px" src="/assets/img/riley460x460.jpg">
+                                    <h3 class="text-center">Riley Shaw, <strong>President</strong></h3>
                                     <p class="text-center">
                                         President's responsibilities include keeping officers and members interested in LUG. 
                                         He or she organizes meetings, and introduces the meeting if someone else is giving a presentation. 
@@ -52,8 +52,8 @@
                                     </p>
                                 </div>
                                 <div class="col-md-4">
-                                    <img class="img img-responsive img-center callout" src="/assets/img/byron_460x460.jpg">
-                                    <h3 class="text-center">Byron Lambrou, <strong>Vice President</strong></h3>
+                                    <img class="img img-responsive img-center callout" src="/assets/img/collin460x460.jpg">
+                                    <h3 class="text-center">Collin Clark, <strong>Vice President</strong></h3>
                                     <p class="text-center">
                                         The Vice President of Membership organizes the mailing list, and keeps track of new members. 
                                         Their main gig is Activities Night, where he/she invites people to join the LUG, and makes sure they come to meetings. 
@@ -64,14 +64,14 @@
                             <div class="row" style="margin-top:80px; margin-bottom: 40px;">
                                 <div class="col-md-4">
                                     <img class="img img-responsive img-center callout" src="http://placehold.it/300x250">
-                                    <h3 class="text-center">Riley Shaw, <strong>Treasurer</strong></h3>
+                                    <h3 class="text-center">Unfilled, <strong>Treasurer</strong></h3>
                                     <p class="text-center">
                                         The Treasurer keeps track of purchases, organizes our budget, and makes certain people get reimbursed for their time. 
                                     </p>
                                 </div>
                                 <div class="col-md-4">
                                     <img class="img img-responsive img-center callout" src="http://placehold.it/300x250">
-                                    <h3 class="text-center">Jake Heffernan, <strong>Secretary</strong></h3>
+                                    <h3 class="text-center">Unfilled, <strong>Secretary</strong></h3>
                                     <p class="text-center">
                                         The Secretary fulfills the requests for assistance by any of the other previous officers. 
                                         He or she is willing to lend a hand when one is required, 
